@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,300;0,600;1,400&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    font-family: 'JetBrains Mono', monospace;
+}
+.Card{
+    font-family: 'JetBrains Mono', monospace;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 800px;
+    background-color: #fff;
+    padding: 50px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
